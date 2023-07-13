@@ -15,7 +15,7 @@
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-QR-Code-Generator/
+    https://prasannad02.github.io/Qr-Code-Generator/
     
 ## Getting Started
 
